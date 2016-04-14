@@ -9,7 +9,7 @@
     <relativePath>../../org.globaltester.parent/org.globaltester.parent/</relativePath>
   </parent>
   <groupId>org.globaltester</groupId>
-  <artifactId>org.globaltester.lib.jdom</artifactId>
+  <artifactId>org.globaltester.lib.domparser</artifactId>
   <version>1.0.0</version>
   <packaging>eclipse-plugin</packaging>
 </project>
