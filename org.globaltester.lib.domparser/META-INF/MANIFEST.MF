@@ -13,4 +13,4 @@ Export-Package: org.jdom,
  org.jdom.output,
  org.jdom.transform,
  org.jdom.xpath
-Bundle-Vendor: HJP Consulting GmbH
+Bundle-Vendor: secunet Security Networks AG
