@@ -14,3 +14,4 @@ Export-Package: org.jdom,
  org.jdom.transform,
  org.jdom.xpath
 Bundle-Vendor: secunet Security Networks AG
+Automatic-Module-Name: org.globaltester.lib.domparser
