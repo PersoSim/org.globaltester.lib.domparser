@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: GT DomParser
 Bundle-SymbolicName: org.globaltester.lib.domparser
 Bundle-Version: 3.9.0.qualifier
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: lib/jdom.jar,
  .
 Export-Package: org.jdom,
