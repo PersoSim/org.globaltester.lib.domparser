@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: GT DomParser
 Bundle-SymbolicName: org.globaltester.lib.domparser
-Bundle-Version: 3.9.0.qualifier
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Version: 3.10.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: lib/jdom.jar,
  .
 Export-Package: org.jdom,
@@ -14,3 +14,4 @@ Export-Package: org.jdom,
  org.jdom.transform,
  org.jdom.xpath
 Bundle-Vendor: secunet Security Networks AG
+Automatic-Module-Name: org.globaltester.lib.domparser
